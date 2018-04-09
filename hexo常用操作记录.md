@@ -14,3 +14,5 @@ deploy:
   repo: https://github.com/smallbaby/smallbaby.github.io.git
   branch: master
   ```
+
+官网：[hexo](https://hexo.io/zh-cn/docs/commands.html)
