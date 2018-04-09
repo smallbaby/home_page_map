@@ -11,3 +11,7 @@
 
 ### 大数据
 
+### 学习他人开源
+- [Python设计模式](https://github.com/smallbaby/python-patterns) 经常有人问Python有没有设计模式，不要问了。有人拿Python实现了一版.
+- [Java实现的缓存](https://github.com/iyangyuan/cache4j)
+
