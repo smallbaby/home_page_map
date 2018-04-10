@@ -7,6 +7,7 @@
 - [数学知识](https://github.com/smallbaby/python-check-challenge/issues/7)
 - [机器学习基础内容记录](https://github.com/smallbaby/python-check-challenge/issues/6)
 - [Java 设计模式](http://www.oodesign.com) [java-design-patterns](http://java-design-patterns.com)
+- [图说设计模式](http://design-patterns.readthedocs.io/zh_CN/latest/index.html) 15613181885
 
 
 ### JAVA
