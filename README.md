@@ -15,3 +15,6 @@
 - [Python设计模式](https://github.com/smallbaby/python-patterns) 经常有人问Python有没有设计模式，不要问了。有人拿Python实现了一版.
 - [Java实现的缓存](https://github.com/iyangyuan/cache4j)
 
+### 理财
+>痛的教训：不知道止损，觉得趋势肯定会上来。。变成了一颗人见人爱的小韭菜..
+
