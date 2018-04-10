@@ -6,6 +6,8 @@
 ### 基础
 - [数学知识](https://github.com/smallbaby/python-check-challenge/issues/7)
 - [机器学习基础内容记录](https://github.com/smallbaby/python-check-challenge/issues/6)
+- [Java 设计模式](http://www.oodesign.com) [java-design-patterns](http://java-design-patterns.com)
+
 
 ### JAVA
 
