@@ -30,5 +30,6 @@
 
 ### 区块链
 - [深入浅出区块链](https://learnblockchain.cn)
+- [尚亚交易所](https://www.syex.io/#/index) 香港的TOP交易所，推荐。
 
 ### Review
