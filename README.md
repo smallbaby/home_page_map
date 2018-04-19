@@ -32,4 +32,5 @@
 - [深入浅出区块链](https://learnblockchain.cn)
 - [尚亚交易所](https://www.syex.io/#/index) 香港的TOP交易所，推荐。
 - [CPU挖矿](http://jiavan.com/2017/09/10/cpu-miner-ltc/)
+- [区块链语言ethereum在线编码](https://ethereum.github.io/browser-solidity/#optimize=false&version=soljson-v0.4.21+commit.dfe3193c.js)
 ### Review
