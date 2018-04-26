@@ -25,6 +25,9 @@
 - 卖空
 - 融资
 - 
+[港股]
+- 打新
+- 卖空（沽）
 ### 调研学习
 - [BML](https://cloud.baidu.com/product/bml.html)
 
