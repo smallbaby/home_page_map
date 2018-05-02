@@ -39,3 +39,7 @@
 - [EOS](https://twitter.com/EOS_io)
 - [otcbtc](https://otcbtc.com/) 台湾小清新后起之秀交易所
 ### Review
+
+
+
+> 当你在一家公司超过1个月没收到过有点用的邮件时。那应该是该离开了...你个渣渣..
