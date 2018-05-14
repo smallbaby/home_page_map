@@ -30,6 +30,7 @@
 - 卖空（沽）
 ### 调研学习
 - [BML](https://cloud.baidu.com/product/bml.html)
+- [第四范式](https://prophet.4paradigm.com/#/prophets)
 
 ### 区块链
 - [深入浅出区块链](https://learnblockchain.cn)
